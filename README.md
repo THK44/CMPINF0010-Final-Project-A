@@ -1,3 +1,7 @@
 # Datasets
-https://data.wprdc.org/dataset/diabetes
-https://data.wprdc.org/dataset/diabetes-hypertension-comorbidity
+
+## Playgrounds
+https://data.wprdc.org/dataset/playgrounds
+
+## Water Features
+https://data.wprdc.org/dataset/city-water-features 
